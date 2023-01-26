@@ -1,0 +1,4 @@
+9/10
+
+Comments for PostiveSum: If the first input is a negative value, then the output is not correct.
+"sum" is assigned by "n" directly after its declaration. But you need to make sure "n" is postive for that. You can think about how to do that? You still have time to fix it and let me know.

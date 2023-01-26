@@ -1,0 +1,4 @@
+10/10
+
+Lucky5: 
+We don't need an array for users'guress numbers. If the first attempt is correct, the user wins already. But it's fine.

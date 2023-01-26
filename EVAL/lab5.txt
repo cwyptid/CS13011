@@ -1,0 +1,9 @@
+9.5/10
+
+BMR:
+Good. But those function prototypes need be above the main(), just like those "#include ..." above the main()  in Figures with multiple files. 
+
+Figures: 
+In the figuresInput: we can have #include "figures.h" directly rather than #include "figures.cpp".
+
+The header file, figures.h, is protected against multiple inclusion.
